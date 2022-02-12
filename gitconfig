@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = jonathan.salfen@gmail.com
+	name = Jonathan Salfen
